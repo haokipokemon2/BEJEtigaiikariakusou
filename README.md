@@ -1,0 +1,2 @@
+# BEJEtigaiikariakusou
+BEとJEの違いのまとめ
